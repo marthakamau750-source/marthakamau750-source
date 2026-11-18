@@ -2,7 +2,7 @@
 # Hi there, I'm Martha Kamau 👋
 
 **Data Analyst | Builder | Problem Solver**
-📍 ruiru, Kenya | 🏢 Data Nation Kenya
+📍 Ruiru, Kenya | 🏢 Data Nation Kenya
 
 > Passionate about building projects, solving problems, and growing my skills through continuous learning.
 
